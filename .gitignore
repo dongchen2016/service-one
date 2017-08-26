@@ -1,0 +1,14 @@
+.idea
+target
+*.log
+*.class
+.metadata
+.recommenders
+logs
+RemoteSystemsTempFiles
+*.iml
+.classpath
+.project
+.settings/
+*.iml
+out
